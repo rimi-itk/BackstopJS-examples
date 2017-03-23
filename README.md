@@ -6,6 +6,11 @@ Install backstop:
 
 ```
 npm install --global backstopjs
+```
+
+For some tests, e.g. when using [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), you may also need [SlimerJS](https://slimerjs.org/):
+
+```
 npm install --global slimerjs
 ```
 
