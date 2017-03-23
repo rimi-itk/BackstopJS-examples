@@ -1,0 +1,2 @@
+# BackstopJS examples
+
