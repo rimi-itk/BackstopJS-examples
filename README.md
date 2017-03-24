@@ -26,3 +26,4 @@ Run tests:
 backstop --config=config.js test
 ```
 
+More on CSS Regression Testing (and BackstopJS): https://css-tricks.com/automating-css-regression-testing/
