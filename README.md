@@ -26,7 +26,8 @@ Run tests:
 backstop --config=config.js test
 ```
 
-
 # Notes
 
-[Notes on SlimerJS.md](SlimerJS.md)
+[Notes on SlimerJS](SlimerJS.md)
+
+More on CSS Regression Testing (and BackstopJS): https://css-tricks.com/automating-css-regression-testing/
