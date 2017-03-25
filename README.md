@@ -26,3 +26,7 @@ Run tests:
 backstop --config=config.js test
 ```
 
+
+# Notes
+
+[Notes on SlimerJS.md](SlimerJS.md)
